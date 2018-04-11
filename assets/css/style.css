@@ -1,0 +1,37 @@
+
+body {
+    background: #F3F2D7; 
+}
+
+header {
+    background: #FF1500;
+    color: #4A4747;
+    text-decoration: underline;
+    text-align: center;
+    height: 20%;
+}
+.buttonContainer {
+    color: #F3F2D7;
+    
+}
+
+.contacts {
+    background: #AC2418;
+    border: 3px solid #4A4747;
+    width: 32%;
+    float: left;
+}
+
+.profiles {
+    background: #AC2418;
+    border: 3px solid #4A4747;
+    width: 33%;
+    float: left;
+}
+
+.projects {
+    background: #AC2418;
+    border: 3px solid #4A4747;
+    width: 32%;
+    float: right;
+}
